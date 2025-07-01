@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:login/bloc/auth_bloc.dart';
 import 'package:login/screens/auth_screen/login_page.dart';
+import 'package:login/screens/home/profile_screen.dart';
 import 'package:lottie/lottie.dart';
 
 class SignupPage extends StatelessWidget {
